@@ -14,5 +14,4 @@ I have used NodeJS as a run time, ExpressJS as a backend framework, Mongoose for
 
 ![image](https://github.com/zuhayrdbse/mern-social-media-app/assets/114517721/f871d622-f6ef-47e5-bd5e-e8f5bba7185e)
 
-![image](https://github.com/zuhayrdbse/mern-social-media-app/assets/114517721/ffe2c1d4-e06e-4f83-9471-63fa79bd77a5)
-
+![image](https://github.com/zuhayrdbse/mern-social-media-app/assets/114517721/8315aa5c-bd96-431c-b8e1-f119d6b16db5)
