@@ -9,3 +9,9 @@ More specifically for the frontend I have implemented ReactJS as the frontend fr
 ## Backend
 
 I have used NodeJS as a run time, ExpressJS as a backend framework, Mongoose for managing MongoDB, Json Web Token for authentication and multer for file upload.
+
+![image](https://github.com/zuhayrdbse/mern-social-media-app/assets/114517721/8334a075-8da8-487a-8e93-a9beb4406fe2)
+
+![image](https://github.com/zuhayrdbse/mern-social-media-app/assets/114517721/f871d622-f6ef-47e5-bd5e-e8f5bba7185e)
+
+
